@@ -1,7 +1,7 @@
 # ★ ★ Sistema de login avançado em JAVA. ★ ★
 
 Esse é apena um exemplo de login e registro de usuários em JAVA com sistema de confirmação de cadastro via e-mail.
-O código pode não ser tão optimizado, mas, o mesmo foi feito com o intuito de prática e ajudar novos programadores.
+O código pode não ser tão optimizado, mas, o mesmo foi feito com o intuito de prática e de ajudar novos programadores.
 
 
 
