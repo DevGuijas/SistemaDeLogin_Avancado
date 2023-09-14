@@ -1,4 +1,4 @@
-# ▶▶ Sistema de login avançado em JAVA. ◀◀
+# ★ ★ Sistema de login avançado em JAVA. ★ ★
 
 ● Exemplo de login e registro de usuários em JAVA com sistema de confirmação de cadastro via e-mail.
 
